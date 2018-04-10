@@ -1,0 +1,64 @@
+html {
+    background-color: rgba(193,66,66,.5);
+}
+
+/*h1 {
+    background-color: aliceblue;
+}*/
+
+.leftColumn
+{
+    float:left;
+    width: 300px;
+}
+.centralColumn
+{
+    width: 300px;
+    margin: 0 auto;
+}
+.rightColumn
+{
+    float: right;
+    width: 300px;
+}
+
+header {
+    background: black;color:white;
+    font-size: 3em}
+
+.flex-container {
+    text-align: center;
+}
+
+img.large{
+    width: 300px;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+#container {
+    display: table;
+    width: 100%;
+}
+#container > div {
+    display: table-cell;
+    width: 25%;
+}
+#container > div:nth-child(2) {
+    width: 25%;
+}
+
+p {
+    font-family: 'Bad Script', cursive;
+    font-weight: 500;
+}
+
+figcaption {
+    font-family: 'Contrail One', cursive;
+}
+
+li {
+    font-style: italic;
+}
