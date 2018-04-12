@@ -1,0 +1,51 @@
+/* Typography */
+
+body {
+    font-family: 'Tajawal', sans-serif;
+    margin: 0;
+}
+
+p {
+    line-height: 1.5em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+
+a:link {
+    color: deeppink;
+    text-decoration-line: underline;
+    font-family: 'Oswald', Veranda, Arial, sans-serif;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: black;
+}
+
+.atom-background-color--pink {
+    background-color: rgba(193,66,66,.5);
+}
+
+.atom-background-color--black {
+    background-color: black;
+}
+
+.atom-font-color--white {
+    color: white;
+}
+
+figcaption {
+    font-family: 'Contrail One', cursive;
+}
+
+h1 {
+    font-size: 5em
+}
+
