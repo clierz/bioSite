@@ -1,0 +1,36 @@
+.molecule-section-title-center {
+    text-align: center;
+}
+
+.molecule-navigation--center {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+
+}
+
+.molecule-navigation--item {
+    display: inline;
+    margin-right: 5em;
+}
+
+.molecule-navigation__list {
+    list-style-type: none;
+    display: inline;
+    margin: 2em 5em;
+}
+
+img.align-left {
+    float: left;
+    margin-right: 10px;
+    width: 500px;
+    margin-bottom: 10px;
+
+}
+
+img.align-right {
+    float: right;
+    margin-left: 10px;
+    width: 500px;
+
+}
